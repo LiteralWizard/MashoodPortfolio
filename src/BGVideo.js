@@ -1,6 +1,6 @@
 import React from 'react'
 
-import FallingWhere from './Projects/FallingOP.mp4'
+import FallingWhere from './Projects/FallingOP.webm'
 
 export default function BGVideo() {
     return (
@@ -16,7 +16,7 @@ export default function BGVideo() {
                 zIndex: '-1',
                 filter: 'brightness(50%)'
                 }}>
-                <source src = {FallingWhere} type = 'video/mp4'/>
+                <source src = {FallingWhere} type = 'video/webm'/>
             </video>
         </div>
     )
