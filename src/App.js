@@ -27,7 +27,7 @@ function App() {
           minWidth: '400px',
           textAlign: "center",
         }}>
-          <span style = {{fontWeight: '200', fontSize: '5em'}}>Hello There</span>
+          <span style = {{fontWeight: '200', fontSize: '5em'}}>Hello There</span><br/>
           <span style = {{fontWeight: '400', fontSize: '2.1em'}}>I'm Mashood Ur Rehman</span>
         </div>
       </div>
