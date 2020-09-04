@@ -4,9 +4,9 @@ import React from 'react';
 import BottomWatermark from './BottomWatermark'
 // import BGVideo from './BGVideo'
 
-import FallWell from './Projects/FallWellDark.png'
+import FallWell from './Projects/FallWellDark.jpg'
 import FallMan from './Projects/FallMan.png'
-import Stairs from './Projects/StairsCycles.png'
+import Stairs from './Projects/StairsCycles.jpg'
 import PatR from './Assets/Pattern-Randomized.svg'
 
 import { Parallax } from 'react-parallax'
