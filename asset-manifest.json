@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/MashoodPortfolio/static/css/main.8408ba43.chunk.css",
-    "main.js": "/MashoodPortfolio/static/js/main.b35a1852.chunk.js",
-    "main.js.map": "/MashoodPortfolio/static/js/main.b35a1852.chunk.js.map",
+    "main.js": "/MashoodPortfolio/static/js/main.ad0ef34b.chunk.js",
+    "main.js.map": "/MashoodPortfolio/static/js/main.ad0ef34b.chunk.js.map",
     "runtime-main.js": "/MashoodPortfolio/static/js/runtime-main.97acd15f.js",
     "runtime-main.js.map": "/MashoodPortfolio/static/js/runtime-main.97acd15f.js.map",
     "static/js/2.727bd5fd.chunk.js": "/MashoodPortfolio/static/js/2.727bd5fd.chunk.js",
     "static/js/2.727bd5fd.chunk.js.map": "/MashoodPortfolio/static/js/2.727bd5fd.chunk.js.map",
     "index.html": "/MashoodPortfolio/index.html",
-    "precache-manifest.d44ebac3d9a8854f6de6810e0a76181e.js": "/MashoodPortfolio/precache-manifest.d44ebac3d9a8854f6de6810e0a76181e.js",
+    "precache-manifest.1b8c9a3e4b086349c7d02b4609714565.js": "/MashoodPortfolio/precache-manifest.1b8c9a3e4b086349c7d02b4609714565.js",
     "service-worker.js": "/MashoodPortfolio/service-worker.js",
     "static/css/main.8408ba43.chunk.css.map": "/MashoodPortfolio/static/css/main.8408ba43.chunk.css.map",
     "static/js/2.727bd5fd.chunk.js.LICENSE.txt": "/MashoodPortfolio/static/js/2.727bd5fd.chunk.js.LICENSE.txt",
     "static/media/FallMan.png": "/MashoodPortfolio/static/media/FallMan.35cf06e2.png",
-    "static/media/FallWellDark.png": "/MashoodPortfolio/static/media/FallWellDark.9c1ce88d.png",
+    "static/media/FallWellDark.jpg": "/MashoodPortfolio/static/media/FallWellDark.60c2c75d.jpg",
     "static/media/Pattern-Randomized.svg": "/MashoodPortfolio/static/media/Pattern-Randomized.d6e23a7a.svg",
-    "static/media/StairsCycles.png": "/MashoodPortfolio/static/media/StairsCycles.d4edf1dc.png"
+    "static/media/StairsCycles.jpg": "/MashoodPortfolio/static/media/StairsCycles.6c1ce319.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.97acd15f.js",
     "static/js/2.727bd5fd.chunk.js",
     "static/css/main.8408ba43.chunk.css",
-    "static/js/main.b35a1852.chunk.js"
+    "static/js/main.ad0ef34b.chunk.js"
   ]
 }
