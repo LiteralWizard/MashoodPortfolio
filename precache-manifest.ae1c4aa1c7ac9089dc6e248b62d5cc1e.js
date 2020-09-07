@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53c74cfdde65bb7294e9381ee7478900",
+    "revision": "10ea04f63990583a7309b4224cbea42f",
     "url": "/MashoodPortfolio/index.html"
   },
   {
-    "revision": "f973e4131a886ce49920",
+    "revision": "344abde071d7f28e79c3",
     "url": "/MashoodPortfolio/static/css/main.8408ba43.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MashoodPortfolio/static/js/2.007320d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f973e4131a886ce49920",
-    "url": "/MashoodPortfolio/static/js/main.cd683388.chunk.js"
+    "revision": "344abde071d7f28e79c3",
+    "url": "/MashoodPortfolio/static/js/main.54ce66cf.chunk.js"
   },
   {
     "revision": "1e23d0ed469d0c24ea5a",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MashoodPortfolio/static/media/Pattern-Randomized.d6e23a7a.svg"
   },
   {
-    "revision": "655359cb8865812ab15d2318b8083556",
-    "url": "/MashoodPortfolio/static/media/RoadWM.655359cb.png"
+    "revision": "5e9727ce62fa907ebf498f967b7aa743",
+    "url": "/MashoodPortfolio/static/media/RoadWM.5e9727ce.png"
   },
   {
     "revision": "fea5bf6cd6d91cf3fe9dd4852d8325e6",
