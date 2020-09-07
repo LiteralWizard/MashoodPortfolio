@@ -143,9 +143,8 @@ function App() {
             <span style = {{fontFamily: 'Oswald', fontWeight: '400', fontSize: '1.3rem'}}>
               Neon Assimilation</span><br/><br/>
             <span>Mid 20th Century European shop's attempt to assimilate with the neon future.</span><br/>
-            <span>The Android App being showcased is called Pakalo and is an AI Cooking Assistant. 
-              The main feature of this app is to guide a user step by step throughout a recipe at their own pace via a chatbot the the user can talk to. 
-              The app also contains thousands of recipes that a user can cook.</span><br/>
+            <span>The neon sign displays a quote I like from Apex Legends' character Revenant. 
+              I always wanted to make dioramas, but they aren't as available where I live.</span><br/>
           </div>
         </div>
 
