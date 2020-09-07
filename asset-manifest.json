@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MashoodPortfolio/static/css/main.8408ba43.chunk.css",
-    "main.js": "/MashoodPortfolio/static/js/main.54ce66cf.chunk.js",
-    "main.js.map": "/MashoodPortfolio/static/js/main.54ce66cf.chunk.js.map",
+    "main.js": "/MashoodPortfolio/static/js/main.afa00e31.chunk.js",
+    "main.js.map": "/MashoodPortfolio/static/js/main.afa00e31.chunk.js.map",
     "runtime-main.js": "/MashoodPortfolio/static/js/runtime-main.97acd15f.js",
     "runtime-main.js.map": "/MashoodPortfolio/static/js/runtime-main.97acd15f.js.map",
     "static/js/2.007320d7.chunk.js": "/MashoodPortfolio/static/js/2.007320d7.chunk.js",
     "static/js/2.007320d7.chunk.js.map": "/MashoodPortfolio/static/js/2.007320d7.chunk.js.map",
     "index.html": "/MashoodPortfolio/index.html",
-    "precache-manifest.ae1c4aa1c7ac9089dc6e248b62d5cc1e.js": "/MashoodPortfolio/precache-manifest.ae1c4aa1c7ac9089dc6e248b62d5cc1e.js",
+    "precache-manifest.33052d0a4bd7c35a6c5b7e92b8989ddd.js": "/MashoodPortfolio/precache-manifest.33052d0a4bd7c35a6c5b7e92b8989ddd.js",
     "service-worker.js": "/MashoodPortfolio/service-worker.js",
     "static/css/main.8408ba43.chunk.css.map": "/MashoodPortfolio/static/css/main.8408ba43.chunk.css.map",
     "static/js/2.007320d7.chunk.js.LICENSE.txt": "/MashoodPortfolio/static/js/2.007320d7.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.97acd15f.js",
     "static/js/2.007320d7.chunk.js",
     "static/css/main.8408ba43.chunk.css",
-    "static/js/main.54ce66cf.chunk.js"
+    "static/js/main.afa00e31.chunk.js"
   ]
 }
