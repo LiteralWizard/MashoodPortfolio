@@ -2,16 +2,12 @@ import React from 'react';
 // import styles from './App.css';
 
 import BottomWatermark from './BottomWatermark'
-// import BGVideo from './BGVideo'
+import ArtProjects from './ArtProjects'
 
 import FallWell from './Projects/Compressed/FallWellDark.jpg'
 import FallMan from './Projects/Compressed/FallMan.png'
 import Stairs from './Projects/Compressed/StairsCycles.jpg'
 import PatR from './Assets/Pattern-Randomized.svg'
-
-import Assimilate from './Projects/AssimilateFWM.png'
-import Room from './Projects/RoomCWM.png'
-import Road from './Projects/RoadWM.png'
 
 import { Parallax } from 'react-parallax'
 import {Helmet} from "react-helmet"
@@ -118,86 +114,7 @@ function App() {
         display: 'flex',
         justifyContent: 'center'}}><span>&lt;  /  &gt;</span></div>
 
-      <div style = {{padding: '20px', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
-
-        <h1 style = {{color: 'white', fontFamily: 'Oswald', fontWeight: '400', fontSize: '3em'}}>Art Projects</h1>
-
-        {/* ########################## NEW IMAGE ########################## */}
-
-        <div style = {{display: 'flex', justifyContent: 'center', alignItems: 'center', flexWrap: 'wrap'}}>
-          <img src = {Assimilate} alt = '' style = {{
-            width: '30%',
-            minWidth: '300px',
-            borderRadius: '30px',
-            boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
-          }}/>
-          <div style = {{
-            padding: '20px',
-            maxWidth: '300px',
-            textAlign: 'left',
-            textShadow: '2px 2px 5px #000',
-            color: 'white',
-            fontWeight: '200',
-            fontSize: '1rem',
-          }}>
-            <span style = {{fontFamily: 'Oswald', fontWeight: '400', fontSize: '1.3rem'}}>
-              Neon Assimilation</span><br/><br/>
-            <span>Mid 20th Century European shop's attempt to assimilate with the neon future.</span><br/>
-            <span>The neon sign displays a quote I like from Apex Legends' character Revenant. 
-              I always wanted to make dioramas, but they aren't as available where I live.</span><br/>
-          </div>
-        </div>
-
-        {/* ########################## NEW IMAGE ########################## */}
-
-        <div style = {{padding: '20px', display: 'flex', justifyContent: 'center', alignItems: 'center', flexWrap: 'wrap'}}>
-          <div style = {{
-            padding: '20px',
-            maxWidth: '300px',
-            textAlign: 'left',
-            textShadow: '2px 2px 5px #000',
-            color: 'white',
-            fontWeight: '200',
-            fontSize: '1rem',
-          }}>
-            <span style = {{fontFamily: 'Oswald', fontWeight: '400', fontSize: '1.3rem'}}>
-            Sit and Marvel (The Room)</span><br/><br/>
-            <span>You know something incredible lies at the end of the road, but when does it end?</span><br/>
-          </div>
-
-          <img src = {Room} alt = '' style = {{
-            width: '30%',
-            minWidth: '300px',
-            borderRadius: '30px',
-            boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
-          }}/>
-        </div>
-
-        {/* ########################## NEW IMAGE ########################## */}
-
-        <div style = {{display: 'flex', justifyContent: 'center', alignItems: 'center', flexWrap: 'wrap'}}>
-          <img src = {Road} alt = '' style = {{
-            width: '30%',
-            minWidth: '300px',
-            borderRadius: '30px',
-            boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
-          }}/>
-          <div style = {{
-            padding: '20px',
-            maxWidth: '300px',
-            textAlign: 'left',
-            textShadow: '2px 2px 5px #000',
-            color: 'white',
-            fontWeight: '200',
-            fontSize: '1rem',
-          }}>
-            <span style = {{fontFamily: 'Oswald', fontWeight: '400', fontSize: '1.3rem'}}>
-              Sit and Marvel (The Road)</span><br/><br/>
-              <span>I would rather just sit and marvel at what I could achieve but never will.</span><br/>
-          </div>
-        </div>
-
-      </div>
+      <ArtProjects />
 
       <div style = {{zIndex: '2'}}>
         <BottomWatermark/>
