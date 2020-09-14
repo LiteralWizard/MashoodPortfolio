@@ -1,5 +1,7 @@
 import React from 'react'
 
+import ReactPlayer from 'react-player/youtube'
+
 import Assimilate from './Projects/AssimilateFWM.png'
 import Room from './Projects/RoomCWM.png'
 import Road from './Projects/RoadWM.png'
@@ -12,9 +14,35 @@ import UP from './Projects/UP1.png'
 
 export default function ArtProjects() {
     return (
-        <div style = {{padding: '20px', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
+      <div style = {{padding: '20px', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
 
         <h1 style = {{color: 'white', fontFamily: 'Oswald', fontWeight: '400', fontSize: '3em'}}>Art Projects</h1>
+
+        {/* ########################## NEW IMAGE ########################## */}
+
+        <div style = {{padding: '20px', display: 'flex', justifyContent: 'center', alignItems: 'center', flexWrap: 'wrap'}}>
+          <div style = {{
+            padding: '20px',
+            maxWidth: '300px',
+            textAlign: 'right',
+            textShadow: '2px 2px 5px #000',
+            color: 'white',
+            fontWeight: '200',
+            fontSize: '1rem',
+          }}>
+            <span style = {{fontFamily: 'Oswald', fontWeight: '400', fontSize: '1.3rem'}}>
+              Falling Where?</span><br/><br/>
+              <span>You're falling? Where did you jump from? Or did you jump at all?</span><br/><br/>
+              <span>There's a pit below, and it glows ominously. 
+                You have someone watching over you, they surround you, protect you.</span><br/><br/>
+            <span style = {{fontWeight: '400'}}>Software Used:</span><span> Blender, Premiere Pro CC</span>
+          </div>
+          <ReactPlayer url = 'https://www.youtube.com/watch?v=rHhMBzQvY3U' width = '30%' style = {{
+            minWidth: '300px',
+            borderRadius: '30px',
+            boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
+          }}/>
+        </div>
 
         {/* ########################## NEW IMAGE ########################## */}
 

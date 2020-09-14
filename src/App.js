@@ -11,6 +11,7 @@ import PatR from './Assets/Pattern-Randomized.svg'
 
 import { Parallax } from 'react-parallax'
 import {Helmet} from "react-helmet"
+import ReactPlayer from 'react-player/youtube'
 
 function App() {
   return (
@@ -106,6 +107,46 @@ function App() {
         </div>
       )}>
       </Parallax>
+
+      <div style = {{
+        color: 'white',
+        fontWeight: '300',
+        fontSize: '2em',
+        display: 'flex',
+        justifyContent: 'center'}}><span>&lt;  /  &gt;</span></div>
+
+      {/* ########################## FYP ########################## */}
+
+      <div style = {{padding: '20px', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
+        <h1 style = {{color: 'white', fontFamily: 'Oswald', fontWeight: '400', fontSize: '3em'}}>Final Year Project</h1>
+        
+        <div style = {{
+          padding: '20px',
+          maxWidth: '400px',
+          textAlign: 'center',
+          textShadow: '2px 2px 5px #000',
+          color: 'white',
+          fontWeight: '200',
+          fontSize: '1rem',
+        }}>
+          <span style = {{fontFamily: 'Oswald', fontWeight: '400', fontSize: '1.3rem'}}>
+            Pakalo - The Artificially Intelligent Cooking Assistant</span><br/><br/>
+            <span>This small feature showcase made in Blender explored my Final Year Project for my Bachelors CS degree. 
+              I was responsible for development of the Chatbot and for designing the UI/Frontend of the application. The logo was also designed by me.</span><br/><br/>
+            <span>The Android App being showcased is called Pakalo and is an AI Cooking Assistant. The main feature of this app is to guide a user step by step throughout a recipe at their own pace via a chatbot the the user can talk to. The app also contains thousands of recipes that a user can cook.</span><br/><br/>
+          <span style = {{fontWeight: '400'}}>Software Used For Project:</span><span> Google Firestore, Rasa Framework, Android Studio, Google Cloud Services, Python</span>
+          <br/><br/>
+          <span style = {{fontWeight: '400'}}>Software Used For Showcase:</span><span> Blender, Premiere Pro CC</span>
+        </div>
+        <ReactPlayer url = 'https://youtu.be/yXp05vrQxbM' width = '40%' style = {{
+          minWidth: '300px',
+          borderRadius: '30px',
+          boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
+        }}/>
+
+      </div>
+
+      {/* ########################## FYP ########################## */}
 
       <div style = {{
         color: 'white',
