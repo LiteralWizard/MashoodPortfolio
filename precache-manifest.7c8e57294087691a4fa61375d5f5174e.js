@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a9a90aefec323076995c48f315cb748",
+    "revision": "a1fbf83d90bbc5bf2f9276ac0e929423",
     "url": "/MashoodPortfolio/index.html"
   },
   {
-    "revision": "ab90ec4e4e3dd3af2467",
+    "revision": "a877efa2d56c9c4100c9",
     "url": "/MashoodPortfolio/static/css/main.8408ba43.chunk.css"
   },
   {
-    "revision": "c4c127121733dfdb92b4",
-    "url": "/MashoodPortfolio/static/js/2.007320d7.chunk.js"
+    "revision": "7e686feebb33ca0827b5",
+    "url": "/MashoodPortfolio/static/js/2.b625b3b7.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/MashoodPortfolio/static/js/2.007320d7.chunk.js.LICENSE.txt"
+    "url": "/MashoodPortfolio/static/js/2.b625b3b7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab90ec4e4e3dd3af2467",
-    "url": "/MashoodPortfolio/static/js/main.afa00e31.chunk.js"
+    "revision": "a877efa2d56c9c4100c9",
+    "url": "/MashoodPortfolio/static/js/main.d8ab1bd0.chunk.js"
   },
   {
     "revision": "1e23d0ed469d0c24ea5a",
@@ -32,8 +32,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MashoodPortfolio/static/media/FallWellDark.293666ad.jpg"
   },
   {
+    "revision": "901687cfdbe58f5fbd6ad51e5b3d2071",
+    "url": "/MashoodPortfolio/static/media/FallingUnderwater.901687cf.png"
+  },
+  {
+    "revision": "307de1b8be21eb7a319ea27a91a117d6",
+    "url": "/MashoodPortfolio/static/media/Lonely.307de1b8.png"
+  },
+  {
     "revision": "d6e23a7afc5e86ad111957bac206ffa8",
     "url": "/MashoodPortfolio/static/media/Pattern-Randomized.d6e23a7a.svg"
+  },
+  {
+    "revision": "685d85f9eb5da63cdf1c93cd390e0e06",
+    "url": "/MashoodPortfolio/static/media/PixelRoom.685d85f9.png"
   },
   {
     "revision": "5e9727ce62fa907ebf498f967b7aa743",
@@ -44,7 +56,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MashoodPortfolio/static/media/RoomCWM.fea5bf6c.png"
   },
   {
+    "revision": "b4cef9b9ae30c624f5a81bc47b1ff9f8",
+    "url": "/MashoodPortfolio/static/media/StairsCycles.b4cef9b9.png"
+  },
+  {
     "revision": "d5d711d553e01ecf95c4a302e440af8f",
     "url": "/MashoodPortfolio/static/media/StairsCycles.d5d711d5.jpg"
+  },
+  {
+    "revision": "20002754c49e7df62b4e08bd00df23d9",
+    "url": "/MashoodPortfolio/static/media/UP1.20002754.png"
   }
 ]);
