@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1fbf83d90bbc5bf2f9276ac0e929423",
+    "revision": "e17843a6bd87a47608aad36add0cb0e4",
     "url": "/MashoodPortfolio/index.html"
   },
   {
-    "revision": "a877efa2d56c9c4100c9",
+    "revision": "4ab2d85b9ee81a2b6577",
     "url": "/MashoodPortfolio/static/css/main.8408ba43.chunk.css"
   },
   {
-    "revision": "7e686feebb33ca0827b5",
-    "url": "/MashoodPortfolio/static/js/2.b625b3b7.chunk.js"
+    "revision": "55d52b83f97d48f5fbce",
+    "url": "/MashoodPortfolio/static/js/2.edc07648.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/MashoodPortfolio/static/js/2.b625b3b7.chunk.js.LICENSE.txt"
+    "url": "/MashoodPortfolio/static/js/2.edc07648.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a877efa2d56c9c4100c9",
-    "url": "/MashoodPortfolio/static/js/main.d8ab1bd0.chunk.js"
+    "revision": "4ab2d85b9ee81a2b6577",
+    "url": "/MashoodPortfolio/static/js/main.ceb44257.chunk.js"
   },
   {
     "revision": "1e23d0ed469d0c24ea5a",
