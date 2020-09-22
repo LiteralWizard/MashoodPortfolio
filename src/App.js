@@ -99,7 +99,7 @@ function App() {
             fontWeight: '200',
             fontSize: '2em',
           }}>
-            <span style = {{fontFamily: 'Manrope', fontWeight: '600'}}>I AM A</span><br/><br/>
+            <span style = {{fontWeight: '600'}}>I AM A</span><br/><br/>
             <span>Computer Scientist</span><br/>
             <span>Graphic Designer</span><br/>
             <span>3D Artist</span>

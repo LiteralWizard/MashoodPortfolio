@@ -47,6 +47,32 @@ export default function ArtProjects() {
         {/* ########################## NEW IMAGE ########################## */}
 
         <div style = {{padding: '20px', display: 'flex', justifyContent: 'center', alignItems: 'center', flexWrap: 'wrap'}}>
+          <ReactPlayer url = 'https://www.youtube.com/watch?v=KWfUav10d78' width = '30%' style = {{
+            minWidth: '300px',
+            borderRadius: '30px',
+            boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
+          }}/>
+          <div style = {{
+            padding: '20px',
+            maxWidth: '300px',
+            textAlign: 'left',
+            textShadow: '2px 2px 5px #000',
+            color: 'white',
+            fontWeight: '200',
+            fontSize: '1rem',
+          }}>
+            <span style = {{fontFamily: 'Oswald', fontWeight: '400', fontSize: '1.3rem'}}>
+              Saint Pepsi - Better (3D Visualization)</span><br/><br/>
+              <span>A 3D visualization of Saint Pepsi's Better from his album Hit Vibes that I made using Blender 3D and some post processing.</span><br/><br/>
+              <span>Saint Pepsi released Hit Vibes in 2013 and I stumbled upon it when I had my vaporwave craze in 2016. 
+                Ever since this album has been one of my all time favourites, with Better being one my favourite songs in the album.</span><br/><br/>
+            <span style = {{fontWeight: '400'}}>Software Used:</span><span> Blender, Premiere Pro CC</span>
+          </div>
+        </div>
+
+        {/* ########################## NEW IMAGE ########################## */}
+
+        <div style = {{padding: '20px', display: 'flex', justifyContent: 'center', alignItems: 'center', flexWrap: 'wrap'}}>
           <img src = {Assimilate} alt = '' style = {{
             width: '30%',
             minWidth: '300px',
