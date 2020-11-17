@@ -2,6 +2,7 @@ import React from 'react'
 
 import ReactPlayer from 'react-player/youtube'
 
+import Souls from './Projects/SoulsWM.png'
 import Assimilate from './Projects/AssimilateFWM.png'
 import Room from './Projects/RoomCWM.png'
 import Road from './Projects/RoadWM.png'
@@ -17,6 +18,32 @@ export default function ArtProjects() {
       <div style = {{padding: '20px', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
 
         <h1 style = {{color: 'white', fontFamily: 'Oswald', fontWeight: '400', fontSize: '3em'}}>Art Projects</h1>
+
+        {/* ########################## NEW IMAGE ########################## */}
+
+        <div style = {{padding: '20px', display: 'flex', justifyContent: 'center', alignItems: 'center', flexWrap: 'wrap'}}>
+          <img src = {Souls} alt = '' style = {{
+            width: '30%',
+            minWidth: '300px',
+            borderRadius: '30px',
+            boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
+          }}/>
+          <div style = {{
+            padding: '20px',
+            maxWidth: '300px',
+            textAlign: 'left',
+            textShadow: '2px 2px 5px #000',
+            color: 'white',
+            fontWeight: '200',
+            fontSize: '1rem',
+          }}>
+            <span style = {{fontFamily: 'Oswald', fontWeight: '400', fontSize: '1.3rem'}}>
+              Relinquish Your Soul</span><br/><br/>
+              <span>With the release of Demon Souls, I felt an urge to make something I've admired a lot about the Soulsborne games, 
+              the bonfire. Although I'm not an avid player of these games, the impact that they've had to the gaming industry and to art in general is immense and I love it.</span><br/><br/>
+            <span style = {{fontWeight: '400'}}>Software Used:</span><span> Blender</span>
+          </div>
+        </div>
 
         {/* ########################## NEW IMAGE ########################## */}
 
