@@ -3,6 +3,7 @@ import React from 'react'
 import ReactPlayer from 'react-player/youtube'
 
 import Souls from './Projects/SoulsWM.png'
+import TVComp from './Projects/TVComp.png'
 import Assimilate from './Projects/AssimilateFWM.png'
 import Room from './Projects/RoomCWM.png'
 import Road from './Projects/RoadWM.png'
@@ -43,6 +44,32 @@ export default function ArtProjects() {
               the bonfire. Although I'm not an avid player of these games, the impact that they've had to the gaming industry and to art in general is immense and I love it.</span><br/><br/>
             <span style = {{fontWeight: '400'}}>Software Used:</span><span> Blender</span>
           </div>
+        </div>
+
+        {/* ########################## NEW IMAGE ########################## */}
+
+        <div style = {{padding: '20px', display: 'flex', justifyContent: 'center', alignItems: 'center', flexWrap: 'wrap'}}>
+          <div style = {{
+            padding: '20px',
+            maxWidth: '300px',
+            textAlign: 'right',
+            textShadow: '2px 2px 5px #000',
+            color: 'white',
+            fontWeight: '200',
+            fontSize: '1rem',
+          }}>
+            <span style = {{fontFamily: 'Oswald', fontWeight: '400', fontSize: '1.3rem'}}>
+            Retro TV (Blender Comparison)</span><br/><br/>
+            <span>Comparison to show the pipeline of making a model in Blender from initial solid modeling to applying materials and adding lighting to final rendering and post editing.</span><br/><br/>
+            <span style = {{fontWeight: '400'}}>Software Used:</span><span> Blender</span>
+          </div>
+
+          <img src = {TVComp} alt = '' style = {{
+            width: '30%',
+            minWidth: '300px',
+            borderRadius: '30px',
+            boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
+          }}/>
         </div>
 
         {/* ########################## NEW IMAGE ########################## */}
