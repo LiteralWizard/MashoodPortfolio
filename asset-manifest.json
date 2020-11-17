@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/MashoodPortfolio/static/css/main.8408ba43.chunk.css",
-    "main.js": "/MashoodPortfolio/static/js/main.043c3f53.chunk.js",
-    "main.js.map": "/MashoodPortfolio/static/js/main.043c3f53.chunk.js.map",
+    "main.js": "/MashoodPortfolio/static/js/main.629d43f5.chunk.js",
+    "main.js.map": "/MashoodPortfolio/static/js/main.629d43f5.chunk.js.map",
     "runtime-main.js": "/MashoodPortfolio/static/js/runtime-main.97acd15f.js",
     "runtime-main.js.map": "/MashoodPortfolio/static/js/runtime-main.97acd15f.js.map",
-    "static/js/2.75424aeb.chunk.js": "/MashoodPortfolio/static/js/2.75424aeb.chunk.js",
-    "static/js/2.75424aeb.chunk.js.map": "/MashoodPortfolio/static/js/2.75424aeb.chunk.js.map",
+    "static/js/2.ea693173.chunk.js": "/MashoodPortfolio/static/js/2.ea693173.chunk.js",
+    "static/js/2.ea693173.chunk.js.map": "/MashoodPortfolio/static/js/2.ea693173.chunk.js.map",
     "index.html": "/MashoodPortfolio/index.html",
-    "precache-manifest.7bde5f4d82632c3b2afd172aa1cb063b.js": "/MashoodPortfolio/precache-manifest.7bde5f4d82632c3b2afd172aa1cb063b.js",
+    "precache-manifest.63cd7183fa37985f58b72db88bdd55c4.js": "/MashoodPortfolio/precache-manifest.63cd7183fa37985f58b72db88bdd55c4.js",
     "service-worker.js": "/MashoodPortfolio/service-worker.js",
     "static/css/main.8408ba43.chunk.css.map": "/MashoodPortfolio/static/css/main.8408ba43.chunk.css.map",
-    "static/js/2.75424aeb.chunk.js.LICENSE.txt": "/MashoodPortfolio/static/js/2.75424aeb.chunk.js.LICENSE.txt",
+    "static/js/2.ea693173.chunk.js.LICENSE.txt": "/MashoodPortfolio/static/js/2.ea693173.chunk.js.LICENSE.txt",
     "static/media/AssimilateFWM.png": "/MashoodPortfolio/static/media/AssimilateFWM.4fd48922.png",
     "static/media/FallWellDark.jpg": "/MashoodPortfolio/static/media/FallWellDark.293666ad.jpg",
     "static/media/FallingUnderwater.png": "/MashoodPortfolio/static/media/FallingUnderwater.901687cf.png",
@@ -20,14 +20,16 @@
     "static/media/PixelRoom.png": "/MashoodPortfolio/static/media/PixelRoom.685d85f9.png",
     "static/media/RoadWM.png": "/MashoodPortfolio/static/media/RoadWM.5e9727ce.png",
     "static/media/RoomCWM.png": "/MashoodPortfolio/static/media/RoomCWM.fea5bf6c.png",
+    "static/media/SoulsWM.png": "/MashoodPortfolio/static/media/SoulsWM.ad3f79bc.png",
     "static/media/StairsCycles.png": "/MashoodPortfolio/static/media/StairsCycles.b4cef9b9.png",
     "static/media/StairsCycles.jpg": "/MashoodPortfolio/static/media/StairsCycles.d5d711d5.jpg",
+    "static/media/TVComp.png": "/MashoodPortfolio/static/media/TVComp.a8d2c4be.png",
     "static/media/UP1.png": "/MashoodPortfolio/static/media/UP1.20002754.png"
   },
   "entrypoints": [
     "static/js/runtime-main.97acd15f.js",
-    "static/js/2.75424aeb.chunk.js",
+    "static/js/2.ea693173.chunk.js",
     "static/css/main.8408ba43.chunk.css",
-    "static/js/main.043c3f53.chunk.js"
+    "static/js/main.629d43f5.chunk.js"
   ]
 }
