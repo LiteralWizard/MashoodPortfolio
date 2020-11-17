@@ -10,17 +10,11 @@ import Stairs from './Projects/Compressed/StairsCycles.jpg'
 import PatR from './Assets/Pattern-Randomized.svg'
 
 import { Parallax } from 'react-parallax'
-import {Helmet} from "react-helmet"
 import ReactPlayer from 'react-player/youtube'
 
 function App() {
   return (
     <div style = {{backgroundImage: 'url(' + PatR + ')', backgroundAttachment: 'fixed'}}>
-
-      <Helmet>
-          <meta charSet="utf-8" />
-          <title>Mashood Ur Rehman Portfolio</title>
-      </Helmet>
 
       {/* <div style = {{zIndex: '-1'}}>
         <BGVideo/>
