@@ -2,6 +2,9 @@ import React from 'react'
 
 import ReactPlayer from 'react-player/youtube'
 
+import Face from './Projects/Face3D.png'
+import Forest from './Projects/ForestG_Cycles_DenoisedWM.png'
+import Crystal from './Projects/CrystalGuardian_WM.png'
 import Souls from './Projects/SoulsWM.png'
 import TVComp from './Projects/TVComp.png'
 import Assimilate from './Projects/AssimilateFWM.png'
@@ -19,6 +22,85 @@ export default function ArtProjects() {
       <div style = {{padding: '20px', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
 
         <h1 style = {{color: 'white', fontFamily: 'Oswald', fontWeight: '400', fontSize: '3em'}}>Art Projects</h1>
+
+        {/* ########################## NEW IMAGE ########################## */}
+
+        <div style = {{padding: '20px', display: 'flex', justifyContent: 'center', alignItems: 'center', flexWrap: 'wrap'}}>
+          <div style = {{
+            padding: '20px',
+            maxWidth: '300px',
+            textAlign: 'right',
+            textShadow: '2px 2px 5px #000',
+            color: 'white',
+            fontWeight: '200',
+            fontSize: '1rem',
+          }}>
+            <span style = {{fontFamily: 'Oswald', fontWeight: '400', fontSize: '1.3rem'}}>
+            Self-Portrait</span><br/><br/>
+            <span>Self portrait made in the style of Saul Bass.</span><br/><br/>
+            <span>Inspired by marketing material from Arkane's Deathloop</span><br/><br/>
+            <span style = {{fontWeight: '400'}}>Software Used:</span><span> Inkscape, Blender</span>
+          </div>
+
+          <img src = {Face} alt = '' style = {{
+            width: '30%',
+            minWidth: '300px',
+            borderRadius: '30px',
+            boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
+          }}/>
+        </div>
+
+        {/* ########################## NEW IMAGE ########################## */}
+
+        <div style = {{padding: '20px', display: 'flex', justifyContent: 'center', alignItems: 'center', flexWrap: 'wrap'}}>
+          <img src = {Crystal} alt = '' style = {{
+            width: '30%',
+            minWidth: '300px',
+            borderRadius: '30px',
+            boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
+          }}/>
+          <div style = {{
+            padding: '20px',
+            maxWidth: '300px',
+            textAlign: 'left',
+            textShadow: '2px 2px 5px #000',
+            color: 'white',
+            fontWeight: '200',
+            fontSize: '1rem',
+          }}>
+            <span style = {{fontFamily: 'Oswald', fontWeight: '400', fontSize: '1.3rem'}}>
+              Crystal Guardian (Hollow Knight)</span><br/><br/>
+              <span>3D Fan-Art of the Crystal Guardian that can be found sitting in a bench, minding its own business in Crystal Peak.</span><br/><br/>
+              <span>From the game Hollow Knight, made by Team Cherry.</span><br/><br/>
+            <span style = {{fontWeight: '400'}}>Software Used:</span><span> Blender</span>
+          </div>
+        </div>
+        
+        {/* ########################## NEW IMAGE ########################## */}
+
+        <div style = {{padding: '20px', display: 'flex', justifyContent: 'center', alignItems: 'center', flexWrap: 'wrap'}}>
+          <div style = {{
+            padding: '20px',
+            maxWidth: '300px',
+            textAlign: 'right',
+            textShadow: '2px 2px 5px #000',
+            color: 'white',
+            fontWeight: '200',
+            fontSize: '1rem',
+          }}>
+            <span style = {{fontFamily: 'Oswald', fontWeight: '400', fontSize: '1.3rem'}}>
+            There's Something in the Woods</span><br/><br/>
+            <span>It's ringing. My ears hurt it's ringing. Where am I now? Why is it ringing so much? What does it say?</span><br/><br/>
+            <span style = {{fontWeight: '400'}}>Software Used:</span><span> Blender</span>
+          </div>
+
+          <img src = {Forest} alt = '' style = {{
+            width: '30%',
+            minWidth: '300px',
+            borderRadius: '30px',
+            boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
+          }}/>
+        </div>
 
         {/* ########################## NEW IMAGE ########################## */}
 

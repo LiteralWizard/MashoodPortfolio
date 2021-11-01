@@ -94,9 +94,9 @@ function App() {
             fontSize: '2em',
           }}>
             <span style = {{fontWeight: '600'}}>I AM A</span><br/><br/>
+            <span>3D Artist</span><br/>
             <span>Computer Scientist</span><br/>
-            <span>Graphic Designer</span><br/>
-            <span>3D Artist</span>
+            <span>Graphic Designer</span>
           </div>
         </div>
       )}>
