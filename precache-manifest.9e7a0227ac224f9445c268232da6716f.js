@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "054df97a00d1d5a85d419793c97c89ad",
+    "revision": "bbeb39119f9230279df049772a117dd0",
     "url": "/MashoodPortfolio/index.html"
   },
   {
-    "revision": "d862edf2bd5b1c228893",
+    "revision": "65e59e039de3a94f8ede",
     "url": "/MashoodPortfolio/static/css/main.8408ba43.chunk.css"
   },
   {
-    "revision": "b4de5a00716152f96576",
-    "url": "/MashoodPortfolio/static/js/2.ea693173.chunk.js"
+    "revision": "2d79ba04e826f35b0e23",
+    "url": "/MashoodPortfolio/static/js/2.15f24e17.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/MashoodPortfolio/static/js/2.ea693173.chunk.js.LICENSE.txt"
+    "url": "/MashoodPortfolio/static/js/2.15f24e17.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d862edf2bd5b1c228893",
-    "url": "/MashoodPortfolio/static/js/main.629d43f5.chunk.js"
+    "revision": "65e59e039de3a94f8ede",
+    "url": "/MashoodPortfolio/static/js/main.631d9192.chunk.js"
   },
   {
     "revision": "1e23d0ed469d0c24ea5a",
@@ -28,12 +28,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MashoodPortfolio/static/media/AssimilateFWM.4fd48922.png"
   },
   {
+    "revision": "e382054515e5a175dbee6e0f94ca3df9",
+    "url": "/MashoodPortfolio/static/media/CrystalGuardian_WM.e3820545.png"
+  },
+  {
+    "revision": "50b2c8ad35ab16abef336ed5f62ff21e",
+    "url": "/MashoodPortfolio/static/media/Face3D.50b2c8ad.png"
+  },
+  {
     "revision": "293666ad073aa173fb7b0d3dac66eabd",
     "url": "/MashoodPortfolio/static/media/FallWellDark.293666ad.jpg"
   },
   {
     "revision": "901687cfdbe58f5fbd6ad51e5b3d2071",
     "url": "/MashoodPortfolio/static/media/FallingUnderwater.901687cf.png"
+  },
+  {
+    "revision": "c330752e2b023ec991acff7943450e1b",
+    "url": "/MashoodPortfolio/static/media/ForestG_Cycles_DenoisedWM.c330752e.png"
   },
   {
     "revision": "307de1b8be21eb7a319ea27a91a117d6",

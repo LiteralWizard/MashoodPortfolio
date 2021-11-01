@@ -1,20 +1,23 @@
 {
   "files": {
     "main.css": "/MashoodPortfolio/static/css/main.8408ba43.chunk.css",
-    "main.js": "/MashoodPortfolio/static/js/main.629d43f5.chunk.js",
-    "main.js.map": "/MashoodPortfolio/static/js/main.629d43f5.chunk.js.map",
+    "main.js": "/MashoodPortfolio/static/js/main.631d9192.chunk.js",
+    "main.js.map": "/MashoodPortfolio/static/js/main.631d9192.chunk.js.map",
     "runtime-main.js": "/MashoodPortfolio/static/js/runtime-main.97acd15f.js",
     "runtime-main.js.map": "/MashoodPortfolio/static/js/runtime-main.97acd15f.js.map",
-    "static/js/2.ea693173.chunk.js": "/MashoodPortfolio/static/js/2.ea693173.chunk.js",
-    "static/js/2.ea693173.chunk.js.map": "/MashoodPortfolio/static/js/2.ea693173.chunk.js.map",
+    "static/js/2.15f24e17.chunk.js": "/MashoodPortfolio/static/js/2.15f24e17.chunk.js",
+    "static/js/2.15f24e17.chunk.js.map": "/MashoodPortfolio/static/js/2.15f24e17.chunk.js.map",
     "index.html": "/MashoodPortfolio/index.html",
-    "precache-manifest.63cd7183fa37985f58b72db88bdd55c4.js": "/MashoodPortfolio/precache-manifest.63cd7183fa37985f58b72db88bdd55c4.js",
+    "precache-manifest.9e7a0227ac224f9445c268232da6716f.js": "/MashoodPortfolio/precache-manifest.9e7a0227ac224f9445c268232da6716f.js",
     "service-worker.js": "/MashoodPortfolio/service-worker.js",
     "static/css/main.8408ba43.chunk.css.map": "/MashoodPortfolio/static/css/main.8408ba43.chunk.css.map",
-    "static/js/2.ea693173.chunk.js.LICENSE.txt": "/MashoodPortfolio/static/js/2.ea693173.chunk.js.LICENSE.txt",
+    "static/js/2.15f24e17.chunk.js.LICENSE.txt": "/MashoodPortfolio/static/js/2.15f24e17.chunk.js.LICENSE.txt",
     "static/media/AssimilateFWM.png": "/MashoodPortfolio/static/media/AssimilateFWM.4fd48922.png",
+    "static/media/CrystalGuardian_WM.png": "/MashoodPortfolio/static/media/CrystalGuardian_WM.e3820545.png",
+    "static/media/Face3D.png": "/MashoodPortfolio/static/media/Face3D.50b2c8ad.png",
     "static/media/FallWellDark.jpg": "/MashoodPortfolio/static/media/FallWellDark.293666ad.jpg",
     "static/media/FallingUnderwater.png": "/MashoodPortfolio/static/media/FallingUnderwater.901687cf.png",
+    "static/media/ForestG_Cycles_DenoisedWM.png": "/MashoodPortfolio/static/media/ForestG_Cycles_DenoisedWM.c330752e.png",
     "static/media/Lonely.png": "/MashoodPortfolio/static/media/Lonely.307de1b8.png",
     "static/media/Pattern-Randomized.svg": "/MashoodPortfolio/static/media/Pattern-Randomized.d6e23a7a.svg",
     "static/media/PixelRoom.png": "/MashoodPortfolio/static/media/PixelRoom.685d85f9.png",
@@ -28,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.97acd15f.js",
-    "static/js/2.ea693173.chunk.js",
+    "static/js/2.15f24e17.chunk.js",
     "static/css/main.8408ba43.chunk.css",
-    "static/js/main.629d43f5.chunk.js"
+    "static/js/main.631d9192.chunk.js"
   ]
 }
